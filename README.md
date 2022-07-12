@@ -1,4 +1,4 @@
-                                                        ### Hi there 👋 I'm Chavva Narayana
+                                                      ### Hi there 👋 I'm Chavva Narayana
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Web Developer Internships.<br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
