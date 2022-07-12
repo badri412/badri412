@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Chavva Narayana
 
-<!--
-**badri412/badri412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hola, 👋 I'm Chavva Narayana
 # 💫 About Me:
 🔭 I’m currently working on Web Development Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Web Developer Internships.<br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
 
@@ -26,4 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=badri412&icon=0&color=0)](https://visitcount.itsvg.in)
-
